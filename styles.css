@@ -1,0 +1,21 @@
+
+.button_col{
+    background-color:#F54C1E ;
+}
+.body_col{
+    background-color: #031333;
+}
+.text_col{
+    color: #F54C1E;
+}
+.first_part{
+    background-attachment: scroll;
+    background-image: url(./assets/background1.png);
+    background-repeat: no-repeat;
+    background-position: 0;
+    background-size: contain;
+}
+.row >.vertical{
+    width: 0%;
+}
+
